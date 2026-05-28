@@ -1,0 +1,6 @@
+{
+  "name": "Control de Asistencia",
+  "description": "Rastrea turnos de trabajo, descansos, inasistencias y penalidades para calcular salarios netos con bonos por presentismo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
